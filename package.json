@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Harvard-ATG/rubric-io.git"  
+    "url": "https://github.com/Harvard-ATG/rubric-io.git"
   },
   "author": "Tylor Dodge",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "d3": "5.15.0"
+  }
 }
